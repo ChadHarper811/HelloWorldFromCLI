@@ -1,0 +1,15 @@
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\bin\Debug\net9.0\HelloWorldFromCLI.exe
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\bin\Debug\net9.0\HelloWorldFromCLI.deps.json
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\bin\Debug\net9.0\HelloWorldFromCLI.runtimeconfig.json
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\bin\Debug\net9.0\HelloWorldFromCLI.dll
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\bin\Debug\net9.0\HelloWorldFromCLI.pdb
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.AssemblyInfoInputs.cache
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.AssemblyInfo.cs
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.csproj.CoreCompileInputs.cache
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.sourcelink.json
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.dll
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\refint\HelloWorldFromCLI.dll
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.pdb
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\HelloWorldFromCLI.genruntimeconfig.cache
+C:\Users\hotsh\Documents\Coding\Pluralsight\C#_fundamentals\HelloWorldFromCLI\obj\Debug\net9.0\ref\HelloWorldFromCLI.dll
